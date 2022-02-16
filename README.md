@@ -8,8 +8,8 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 - Select your theme under `Preferences -> UI Customization`.
 - See also the official GitKraken [Documentation](https://support.gitkraken.com/start-here/themes/).
 
-# Other Dark Themes
-## [Dracula](https://github.com/remondevries/gitkraken-custom-theme-tokyonight/tree/master/Themes) - ([Source](https://github.com/enkia/tokyo-night-vscode-theme))
+# Themes Details
+## [Tokyo Night - Night](https://github.com/remondevries/tokyonight-gitkraken-theme/tree/master/Themes) - ([Source](https://github.com/enkia/tokyo-night-vscode-theme))
 # ![TokyoNightTheme](images/printscreen.png)
 
 # Contributions
