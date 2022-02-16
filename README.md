@@ -10,7 +10,7 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 
 # Other Dark Themes
 ## [Dracula](https://github.com/remondevries/gitkraken-custom-theme-tokyonight/tree/master/Themes) - ([Source](https://github.com/enkia/tokyo-night-vscode-theme))
-# ![TokyoNightTheme](images/printscreen.png
+# ![TokyoNightTheme](images/printscreen.png)
 
 # Contributions
 Contributions are always welcome. New themes should not be too similar to other themes in this repository and should look good.
