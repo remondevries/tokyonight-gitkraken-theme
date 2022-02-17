@@ -1,6 +1,10 @@
 # ![GitKrakenCustomThemes](images/logo.png)
-# Tokyo Night themes for [GitKraken](https://www.gitkraken.com/)
-Give your GitKraken client a whole new look with these custom themes. Note that this repository is not an official GitKraken repository.
+
+# [GitKraken](https://www.gitkraken.com/) Custom Themes
+
+## OVERVIEW
+
+In addition to the default themes, GitKraken now supports custom user-defined themes! Each of the .jsonc-default theme files you see in this folder can act as a template "base" for your new custom theme.
 
 # Installation
 - You can find all available themes in the [Themes](https://github.com/remondevries/tokeynight-gitkraken-theme/tree/master/Themes) folder.
