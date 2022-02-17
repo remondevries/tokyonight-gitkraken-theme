@@ -9,7 +9,7 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 - See also the official GitKraken [Documentation](https://support.gitkraken.com/start-here/themes/).
 
 # Themes Details
-## [Tokyo Night - Night](https://github.com/remondevries/tokyonight-gitkraken-theme/tree/master/Themes) - ([Source](https://github.com/remondevries/tokyonight-gitkraken-theme/blob/main/Theme/tokyo-night-dark.jsonc))
+## [Tokyo Night - Night](https://github.com/remondevries/tokyonight-gitkraken-theme/tree/main/Theme) - ([Source](https://github.com/remondevries/tokyonight-gitkraken-theme/blob/main/Theme/tokyo-night-dark.jsonc))
 # ![TokyoNightTheme](images/printscreen.png)
 
 # Contributions
