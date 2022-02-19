@@ -14,5 +14,5 @@ In addition to the default themes, GitKraken now supports custom user-defined th
 ## [Tokyo Night - Night](https://github.com/remondevries/tokyonight-gitkraken-theme/tree/main/Theme) - ([Source](https://github.com/remondevries/tokyonight-gitkraken-theme/blob/main/Theme/tokyo-night-dark.jsonc))
 # ![TokyoNightTheme](images/printscreen.png)
 
-# Contributions
-Contributions are always welcome. New themes should not be too similar to other themes in this repository and should look good.
+# Thanks to..
+@JonBunator creator of Collection of custom themes for GitKraken
