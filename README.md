@@ -1,6 +1,4 @@
-# ![GitKrakenCustomThemes](images/logo.png)
-
-# [GitKraken](https://www.gitkraken.com/) Custom Themes
+<img src="https://i.imgur.com/hQDlMJK.png" data-canonical-src="https://i.imgur.com/hQDlMJK.png" width="300" />
 
 ## OVERVIEW
 
