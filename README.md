@@ -15,4 +15,4 @@ In addition to the default themes, GitKraken now supports custom user-defined th
 # ![TokyoNightTheme](images/printscreen.png)
 
 # Thanks to..
-[@JonBunator](https://github.com/JonBunator) creator of Collection of [custom themes for GitKraken](https://github.com/JonBunator/gitkraken-custom-themes)
+[@JonBunator](https://github.com/JonBunator) creator of [Collection of custom themes for GitKraken](https://github.com/JonBunator/gitkraken-custom-themes)
